@@ -234,6 +234,12 @@
         multiple: false
       },
       {
+        name: 'rotate',
+        icon: 'fas fa-undo',
+        label: lang['menu-rotate'],
+        multiple: false
+      },
+      {
         name: 'crop',
         icon: 'crop',
         label: lang['menu-crop'],
